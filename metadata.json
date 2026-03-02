@@ -1,0 +1,7 @@
+{
+  "name": "Aegis: Deepfake Forensic Suite",
+  "description": "Advanced deepfake detection platform using hybrid CNN-LSTM-Transformer architecture and physiological feature analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
